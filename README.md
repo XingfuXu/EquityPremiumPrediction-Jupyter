@@ -1,4 +1,4 @@
-This project provides the data and codes for the paper 
+This project provides the data and code for the paper 
 Xu, Xingfu, and Wei-han Liu. "Forecasting the equity premium: can machine learning beat the historical average?." Quantitative Finance 24.10 (2024): 1445-1461.
 https://doi.org/10.1080/14697688.2024.2409278
 
